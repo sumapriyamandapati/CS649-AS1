@@ -1,0 +1,44 @@
+.app {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 0;
+}
+
+.my-name {
+    font-size: xxx-large;
+    color: #5e5e5e;
+}
+
+.my-image {
+    margin: 20px 0;
+    border: 4px solid #5e5e5e;
+}
+
+.description {
+    max-width: 500px;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 18px;
+    color: #5e5e5e;
+}
+
+.repo-link {
+    margin: 20px 0;
+}
+
+.repo-link > button {
+    padding: 10px;
+    background: #5e5e5e;
+    border: #5e5e5e;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.repo-link > button:hover {
+    background: #5e5e5e;
+    border: #5e5e5e;
+    color: #FFFFFF;
+    cursor: pointer;
+}

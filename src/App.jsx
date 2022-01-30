@@ -8,7 +8,7 @@ function App () {
     const [ state ] = useState({
         name: 'Sumapriya',
         description: "My name is Sumapriya Mandapati, I am doing my Masters of Science in Computer Science department. I am interested in data science, web development and learning new technologies to enhance my knowledge. I have worked in TCS for 2 years as a Systems Engineer. I love cooking new vegetarian cuisines and listening to music.",
-        githubLink: "https://github.com/sumapriyamandapati/CS649-AS1.git"
+        githubLink: "https://github.com/sumapriyamandapati/assignment1.git"
     })
 
     useEffect(() => {
